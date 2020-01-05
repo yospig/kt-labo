@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/kt-labo.iml" filepath="$PROJECT_DIR$/.idea/kt-labo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kt-labo.iml" filepath="$PROJECT_DIR$/kt-labo.iml" />
     </modules>
   </component>
 </project>
