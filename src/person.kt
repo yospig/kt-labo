@@ -1,8 +1,9 @@
 // have primary constructor
-class Person constructor(val name: String){
+class Person(val name: String) {
     // try secondary constructor
-    constructor(name: String, parent: Person) this(name){
-        parent.children.add(this)
+    constructor(name: String, parent: Person) : this(name) {
+        println("this.name : " + this.name)
+        println("name : " + name)
     }
 }
 
